@@ -1,0 +1,23 @@
+---
+title: "About"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/DuVanDev
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/duv%C3%A1n-moreno-cardona-767513171/
+    - icon: twitter-x
+      text: X
+      href: https://x.com/DuVanDev
+---
+
+I'm Duván, a Software Engineer building production backend systems.
+
+I'm currently learning AI/ML in public — starting from foundations toward 
+applied ML engineering. This blog documents the journey: notes, experiments, 
+code, and mistakes.
+
+You can follow my learning progress on [GitHub](https://github.com/DuVanDev/ai-journey).

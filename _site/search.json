@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Duván, a Software Engineer building production backend systems.\nI’m currently learning AI/ML in public — starting from foundations toward applied ML engineering. This blog documents the journey: notes, experiments, code, and mistakes.\nYou can follow my learning progress on GitHub."
+  },
+  {
+    "objectID": "posts/2026-05-19-starting-ai-journey/index.html",
+    "href": "posts/2026-05-19-starting-ai-journey/index.html",
+    "title": "Why I’m Learning AI/ML in Public",
+    "section": "",
+    "text": "I’m a Software Engineer with 4+ years building production backend systems. This week I’m starting something I’ve been postponing for too long: learning AI/ML seriously.\nNot “taking a Coursera course on weekends” seriously. But disciplined, hours-per-week, public-output seriously.\nThis post explains why, what the plan looks like, and what I’ll publish here."
+  },
+  {
+    "objectID": "posts/2026-05-19-starting-ai-journey/index.html#why-now",
+    "href": "posts/2026-05-19-starting-ai-journey/index.html#why-now",
+    "title": "Why I’m Learning AI/ML in Public",
+    "section": "Why now",
+    "text": "Why now\nThe AI/ML space has reached a point where the gap between “software engineers who use LLM APIs” and “engineers who understand what’s happening under the hood” is becoming a real career differentiator. I want to be on the second side.\nI’m not trying to become a research scientist. I’m building toward Applied AI / ML Engineering / Research Engineering roles — where strong software engineering meets deep understanding of ML systems."
+  },
+  {
+    "objectID": "posts/2026-05-19-starting-ai-journey/index.html#the-plan",
+    "href": "posts/2026-05-19-starting-ai-journey/index.html#the-plan",
+    "title": "Why I’m Learning AI/ML in Public",
+    "section": "The plan",
+    "text": "The plan\nThe next 12 months are organized around three phases:\nMonths 1-4 — Foundations\n\nKarpathy’s Neural Networks: Zero to Hero (building neural nets from scratch)\nMath foundations (linear algebra, calculus, probability)\nFluent Python (Ramalho) — going deeper into the language\n\nMonths 5-7 — Deepening\n\nHands-On Large Language Models (Alammar, Grootendorst)\nFirst paper re-implementation\nfast.ai Practical Deep Learning Part 2\n\nMonths 8-12 — Specialization\n\nAI Engineering (Chip Huyen)\nLLM evaluation systems project\nFirst OSS contributions to relevant libraries"
+  },
+  {
+    "objectID": "posts/2026-05-19-starting-ai-journey/index.html#why-publish-in-public",
+    "href": "posts/2026-05-19-starting-ai-journey/index.html#why-publish-in-public",
+    "title": "Why I’m Learning AI/ML in Public",
+    "section": "Why publish in public",
+    "text": "Why publish in public\nThree reasons:\n\nAccountability. Public commitments are harder to abandon.\nCompounding. Every post, repo, and note is a future asset — for me, and for someone else following a similar path.\nSignal. When the time comes to apply to AI-focused roles, my GitHub and this blog should show, not tell."
+  },
+  {
+    "objectID": "posts/2026-05-19-starting-ai-journey/index.html#what-youll-find-here",
+    "href": "posts/2026-05-19-starting-ai-journey/index.html#what-youll-find-here",
+    "title": "Why I’m Learning AI/ML in Public",
+    "section": "What you’ll find here",
+    "text": "What you’ll find here\n\nNotes from books and courses (not summaries — my analysis and confusions)\nRe-implementations of papers and core ML primitives\nProject write-ups when something is worth shipping publicly\nWeekly reviews of what’s working and what’s not\n\nFrequency: roughly one post every 2-3 weeks."
+  },
+  {
+    "objectID": "posts/2026-05-19-starting-ai-journey/index.html#where-to-follow",
+    "href": "posts/2026-05-19-starting-ai-journey/index.html#where-to-follow",
+    "title": "Why I’m Learning AI/ML in Public",
+    "section": "Where to follow",
+    "text": "Where to follow\n\nAll code goes to ai-journey\nShorter thoughts on X / Twitter\nLong-form here\n\nIf you’re on a similar path, or you’ve already walked it, I’d love to hear from you.\n\nNext post: building micrograd from scratch — what I expected, what surprised me, and what I still don’t fully understand."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Duván Moreno",
+    "section": "",
+    "text": "Why I’m Learning AI/ML in Public\n\n\n\nmeta\n\nlearning-in-public\n\n\n\nMy plan to transition from backend engineering to AI/ML — and why I’m documenting it openly.\n\n\n\n\n\nMay 19, 2026\n\n\nDuván Moreno\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "All Posts",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMay 19, 2026\n\n\nWhy I’m Learning AI/ML in Public\n\n\nmeta, learning-in-public\n\n\nMy plan to transition from backend engineering to AI/ML — and why I’m documenting it openly.\n\n\n\n\n\n\nNo matching items"
+  }
+]

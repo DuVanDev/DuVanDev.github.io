@@ -1,0 +1,81 @@
+---
+title: "Why I'm Learning AI/ML in Public"
+description: "My plan to transition from backend engineering to AI/ML — and why I'm documenting it openly."
+author: "Duván Moreno"
+date: "2026-05-19"
+categories: [meta, learning-in-public]
+---
+
+I'm a Software Engineer with 4+ years building production backend systems. 
+This week I'm starting something I've been postponing for too long: 
+**learning AI/ML seriously.**
+
+Not "taking a Coursera course on weekends" seriously. 
+But disciplined, hours-per-week, public-output seriously.
+
+This post explains why, what the plan looks like, and what I'll publish here.
+
+## Why now
+
+The AI/ML space has reached a point where the gap between "software engineers 
+who use LLM APIs" and "engineers who understand what's happening under the hood" 
+is becoming a real career differentiator. I want to be on the second side.
+
+I'm not trying to become a research scientist. I'm building toward 
+**Applied AI / ML Engineering / Research Engineering** roles — where strong 
+software engineering meets deep understanding of ML systems.
+
+## The plan
+
+The next 12 months are organized around three phases:
+
+**Months 1-4 — Foundations**
+
+- Karpathy's *Neural Networks: Zero to Hero* (building neural nets from scratch)
+- Math foundations (linear algebra, calculus, probability)
+- *Fluent Python* (Ramalho) — going deeper into the language
+
+**Months 5-7 — Deepening**
+
+- *Hands-On Large Language Models* (Alammar, Grootendorst)
+- First paper re-implementation
+- fast.ai Practical Deep Learning Part 2
+
+**Months 8-12 — Specialization**
+
+- *AI Engineering* (Chip Huyen)
+- LLM evaluation systems project
+- First OSS contributions to relevant libraries
+
+## Why publish in public
+
+Three reasons:
+
+1. **Accountability.** Public commitments are harder to abandon.
+2. **Compounding.** Every post, repo, and note is a future asset — 
+   for me, and for someone else following a similar path.
+3. **Signal.** When the time comes to apply to AI-focused roles, 
+   my GitHub and this blog should *show*, not *tell*.
+
+## What you'll find here
+
+- Notes from books and courses (not summaries — my analysis and confusions)
+- Re-implementations of papers and core ML primitives
+- Project write-ups when something is worth shipping publicly
+- Weekly reviews of what's working and what's not
+
+Frequency: roughly one post every 2-3 weeks.
+
+## Where to follow
+
+- All code goes to [ai-journey](https://github.com/DuVanDev/ai-journey)
+- Shorter thoughts on [X / Twitter](https://x.com/DuVanDev)
+- Long-form here
+
+If you're on a similar path, or you've already walked it, 
+I'd love to hear from you.
+
+---
+
+*Next post: building micrograd from scratch — what I expected, what surprised me, 
+and what I still don't fully understand.*
